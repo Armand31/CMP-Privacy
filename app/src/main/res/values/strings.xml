@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">CMP_Privacy</string>
+    <string name="opt_out">Opt Out</string>
 </resources>
